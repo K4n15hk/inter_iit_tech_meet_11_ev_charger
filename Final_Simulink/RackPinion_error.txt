@@ -1,0 +1,28 @@
+Constrained Instances: 'rack spur rectangular_iso-1', 'spur gear_iso-1'
+Constraint Name: RackPinionMate1
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Screw-1', 'Slideee-1'
+Constraint Name: Screw3
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'spur gear_iso-6', 'spur gear_iso-4'
+Constraint Name: GearMate4
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'spur gear_iso-4', 'spur gear_iso-5'
+Constraint Name: GearMate5
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: '0.4m_screw-1', '0.4m_Slide-1'
+Constraint Name: Screw5
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'spur gear_iso-21', 'spur gear_iso-20'
+Constraint Name: GearMate8
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
+Constrained Instances: 'spur gear_iso-20', 'spur gear_iso-19'
+Constraint Name: GearMate10
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------
